@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruksina</h1>
-<h3 align="center">Aspire Software Engineer/h3>
+<h3 align="center">Aspire Software Engineer</h3>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
